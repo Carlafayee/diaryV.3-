@@ -88,21 +88,21 @@
                 <h2 class="section-title">Creators</h2>
 
                 <div class="work__container bd-grid">
-                    <div class="work__img">
+                    <div class="creator__img">
                        
                              <img src="assets/img/Pat.png" alt="Patrcia">
                            
                             <p class="creator_title">Programmer/Desinger</p>
                        <p class="creator_description">Patricia Caretiro</p>
                     </div>
-                    <div class="work__img">
+                    <div class="creator__img">
                      
                         <img src="assets/img/Kris.png" alt="Kristofferson">
                     
                        <p class="creator_title">Programmer</p>
                        <p class="creator_description">Kristofferson Patawaran</p>
                     </div>
-                    <div class="work__img">
+                    <div class="creator__img">
                        
                         <img src="assets/img/Carla.png" alt="Carla Faye">
                     
